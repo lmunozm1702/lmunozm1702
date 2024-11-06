@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Muñoz</h1>
 <h3 align="center">A passionate project manager and frontend developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmunozm&label=Profile%20views&color=0e75b6&style=flat" alt="lmunozm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmunozm1702&label=Profile%20views&color=0e75b6&style=flat" alt="lmunozm1702" /> </p>
 
-<p align="left"> <a href="https://github.com/lmunozm/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmunozm" alt="lmunozm" /></a> </p>
+<p align="left"> <a href="https://github.com/lmunozm1702/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmunozm1702" alt="lmunozm1702" /></a> </p>
 
 - 🔭 I’m currently working on [corficap admin platform](https://gestion.corficap.cl)
 
