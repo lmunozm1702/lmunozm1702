@@ -45,4 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmunozm1702&count_private=true" alt="lmunozm1702" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmunozm1702)](https://github.com/lmunozm1702/github-readme-stats)
+
 
