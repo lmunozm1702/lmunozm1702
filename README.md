@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-cyan-seven-96.vercel.app/api?username=lmunozm1702&show_icons=true&locale=en&count_private=true" alt="lmunozm1702" /></p>
 
-<p><img align="center" src="https://github-readme-stats-cyan-seven-96.vercel.app/api?username=lmunozm1702&count_private=true" alt="lmunozm1702" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmunozm&" alt="lmunozm" /></p>
 
 
 
