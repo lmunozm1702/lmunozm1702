@@ -47,4 +47,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmunozm1702)](https://github.com/lmunozm1702/github-readme-stats)
 
+![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true)
+
 
