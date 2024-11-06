@@ -45,6 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmunozm1702" alt="lmunozm1702" /></p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmunozm1702)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
