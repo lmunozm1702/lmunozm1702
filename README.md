@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Muñoz</h1>
-<h3 align="center">A passionate project manager and frontend developer from Chile</h3>
+<h3 align="center">A passionate project manager and full stack developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmunozm1702&label=Profile%20views&color=0e75b6&style=flat" alt="lmunozm1702" /> </p>
 
