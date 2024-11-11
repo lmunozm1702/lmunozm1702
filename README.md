@@ -86,7 +86,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmunozm1702" alt="lmunozm1702" />
 </p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lmunozm1702"/></a>
-</p>
-
