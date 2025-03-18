@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [corficap admin platform](https://gestion.corficap.cl)
 
-- 🌱 I’m currently learning **DataScience** in the [soyhenry.com](https://www.soyhenry.com/) bootcamp
+- 🌱 I finished the **Data Science** program at [soyhenry.com](https://www.soyhenry.com/) bootcamp on last January.
 
 - 👨‍💻 All of my projects are available at [.](.)
 
