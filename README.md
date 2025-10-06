@@ -30,7 +30,7 @@ Tools
 <hr />
 
 📊 **GitHub Stats**
-![Top Langs](https://github-readme-stats-drab-zeta-29.vercel.app/api/top-langs/?username=lmunozm1702&layout=compact&hide=jupyter%20notebook)
-![GitHub stats](https://github-readme-stats-drab-zeta-29.vercel.app/api?username=lmunozm1702&show_icons=true&count_private=true)
+<p>![Top Langs](https://github-readme-stats-drab-zeta-29.vercel.app/api/top-langs/?username=lmunozm1702&layout=compact&hide=jupyter%20notebook)</p>
+<p>![GitHub stats](https://github-readme-stats-drab-zeta-29.vercel.app/api?username=lmunozm1702&show_icons=true&count_private=true)</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lmunozm1702&theme=nord&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang,Issues,Experience,Reviews&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
