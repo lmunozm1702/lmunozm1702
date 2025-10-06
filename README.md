@@ -30,6 +30,13 @@ Tools
 <hr />
 
 📊 **GitHub Stats**
-<p align="center"> <img src="https://github-readme-stats-cyan-seven-96.vercel.app/api/top-langs?username=lmunozm1702&show_icons=true&locale=en&layout=compact&count_private=true&hide=jupyter%20notebook" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats-cyan-seven-96.vercel.app/api?username=lmunozm1702&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lmunozm1702&show_icons=true&locale=en&layout=compact&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lmunozm1702&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lmunozm1702&theme=nord&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang,Issues,Experience,Reviews&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
