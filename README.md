@@ -29,8 +29,13 @@ Tools
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a> </p>
 <hr />
 
-📊 **GitHub Stats**
-<p>![Top Langs](https://github-readme-stats-drab-zeta-29.vercel.app/api/top-langs/?username=lmunozm1702&layout=compact&hide=jupyter%20notebook)</p>
-<p>![GitHub stats](https://github-readme-stats-drab-zeta-29.vercel.app/api?username=lmunozm1702&show_icons=true&count_private=true)</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-drab-zeta-29.vercel.app/api/top-langs?username=lmunozm1702&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-drab-zeta-29.vercel.app/api?username=lmunozm1702&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lmunozm1702&theme=nord&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang,Issues,Experience,Reviews&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
